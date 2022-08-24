@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatiasGrondona
-- 👀 I’m interested in BTS and Mobile Development
+- 👀 I’m interested in BTS and WEB Development
 - 🌱 I’m currently learning JavaScrip
 - 📫 How to reach me, Twitter @MatiasGrondonaS
 
